@@ -1,0 +1,53 @@
+{
+  "name": "LS: Sinister Squirrel Syn #5743",
+  "symbol": "LS",
+  "description": "A collection of 9,999 NFTs on Solana. Series 1 of 3. 1-888-Git-Rekt",
+  "image": "https://bafybeievisaklker6ifagrpcoj4avzg77ijin3rwaloepwawa5t6ttkfwy.ipfs.nftstorage.link/5743.png?ext=png",
+  "external_url": "https://www.libertysquare.io",
+  "attributes": [
+    {
+      "trait_type": "Gang:",
+      "value": "Padre"
+    },
+    {
+      "trait_type": "IAID:",
+      "value": "266666"
+    },
+    {
+      "trait_type": "Primary Background:",
+      "value": "Vintage Onyx"
+    },
+    {
+      "trait_type": "Secondary Background:",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Splatter:",
+      "value": "Scatter Shot"
+    },
+    {
+      "trait_type": "Tail:",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Hat:",
+      "value": "White Bishop Cap"
+    },
+    {
+      "trait_type": "Robe:",
+      "value": "White Placard Robe"
+    },
+    {
+      "trait_type": "Primary Weapon:",
+      "value": "Incense"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
