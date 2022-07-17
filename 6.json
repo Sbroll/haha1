@@ -1,0 +1,51 @@
+{
+  "name": "Weeping Angel #2818",
+  "symbol": "TEARS",
+  "description": "A Weeping Angel. Apart of an elemental tribe with strengths and weakness, joining together to create something truly special.",
+  "image": "ttps://nftstorage.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/2022.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire Mountains"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Elements",
+      "value": "Air"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Knights Armour"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Goblin Mask"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Magic Greatsword"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 2349,
+      "display_type": "number",
+      "max_value": 4444
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
