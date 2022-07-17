@@ -1,0 +1,45 @@
+{
+  "name": "Netrunner #3072",
+  "symbol": "SNR",
+  "description": "4646 Netrunners. Wired in, running on Solana",
+  "image": "https://bafybeic6vgnounzhna27itvcfjmgyypexasferyagxfm3r7uup33llyj5a.ipfs.nftstorage.link/3072.png?ext=png" ,
+  "external_url": "",
+  "attributes": [
+   {
+      "trait_type": "Screen",
+      "value": "Alien Finance"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Main Floor I"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Anon II"
+    },
+    {
+      "trait_type": "Desk Item",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Arm Item",
+      "value": "Watch Corrupted I"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Hyper Dimensional"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Orange"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
