@@ -1,0 +1,76 @@
+{
+  "name": "Quantum Trader #5942",
+  "symbol": "QT",
+  "description": "An alien droid race unbound by time. Brought to life by Yawww to protect our realm and to stabilize our economy with $YAW.",
+  "seller_fee_basis_points": 800,
+  "image": "https://arweave.net/5NZFZmOYaCczMem18Zkvww5Gf0Y9G_6EgdFRCsvPmeI",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Whizzing"
+    },
+    {
+      "trait_type": "Helpers",
+      "value": "Firefly swarm"
+    },
+    {
+      "trait_type": "Joints",
+      "value": "Black joints"
+    },
+    {
+      "trait_type": "Plates",
+      "value": "White plates"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Quantum jacket"
+    },
+    {
+      "trait_type": "Wrist",
+      "value": "Gold watch"
+    },
+    {
+      "trait_type": "Shoulders",
+      "value": "Purple shoulder pad"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "QR code necklace"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head extra",
+      "value": "Magenta hood"
+    },
+    {
+      "trait_type": "Table",
+      "value": "The Grid"
+    },
+    {
+      "trait_type": "Goods",
+      "value": "Turtles #2"
+    },
+    {
+      "trait_type": "Container",
+      "value": "Cage"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
