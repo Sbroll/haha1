@@ -1,0 +1,28 @@
+{
+  "name": "Degen Coin Flip #352",
+  "symbol": "DCF",
+  "description": "Degen Coin Flip is a smart contract that allows users to play Double or Nothing with their Solana tokens. Odds are 50/50 with a 3.5% fee that goes to DCF NFT holders. This NFT gives you a portion of DCF’s revenue.",
+  "seller_fee_basis_points": 500,
+  "image": "https://degencoinflip.s3.us-east-2.amazonaws.com/assets/352.png",
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "Ape"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
