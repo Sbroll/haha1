@@ -1,0 +1,52 @@
+{
+  "name": "Saudi Monke #3346",
+  "symbol": "SAUDI",
+  "description": "SMB is a collection of 5000 unique randomly generated Saudi Monkeys stored on the blockchain.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://nftstorage.link/ipfs/bafybeiaiz7xq42edzvtub57cxewfdt3gzpyo3hwgt2dlzmtc326higz5yi/2609.png",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "purple"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "green jacket"
+    },
+    {
+      "trait_type": "EARRINGS",
+      "value": "gold earrings"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "cool glasses"
+    },
+    {
+      "trait_type": "HATS",
+      "value": "beige with black"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
