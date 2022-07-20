@@ -1,0 +1,52 @@
+{
+  "name": "Zoonies #5783",
+  "symbol": "ZOON",
+  "description": "A collection with the supply of 8888, featuring unique characters strongly branded as cute but mutant aliens called Zoonies.",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeigj3mmjoa22qryshcreaeayrxaterh7wybnqqgm6ohn7rmd6q2z24",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Oberian_Grey"
+    },
+    {
+      "trait_type": "Antlers",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Melting_Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blodshot_Mono"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bunny_Ears_Cloak_Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
