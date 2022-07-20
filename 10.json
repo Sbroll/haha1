@@ -1,0 +1,39 @@
+{
+  "name": "SolStein #2445",
+  "symbol": "",
+  "description": "": 400,
+  "image": "https://arweave.net/UNobnDDcYlvF4BVqQN1eaTB496xVNEtWrujJBRQRk5U?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
