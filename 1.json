@@ -1,0 +1,28 @@
+{
+  "name": "Degen Crash",
+  "symbol": "ZOON",
+  "description": "Degen Crash is a 777 supply profit-sharing NFT collection where 85% of casino profits will be airdropped back to holders daily! The first game available will be CRASH, Coin Flip/Dice/Lucky Wheel planned soon!",
+  "seller_fee_basis_points": 1000,
+  "image": "https://nftstorage.link/ipfs/bafybeieehiitjclqkc4ijb2wyjll7tovrbopvk6vxldu7dtqg7p7ogzxvu/144.gif",
+  "attributes": [
+    {
+      "trait_type": "Coin",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
