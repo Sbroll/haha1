@@ -1,0 +1,52 @@
+{
+  "name": "Froots #249",
+  "symbol": "FRTS",
+  "description": "A collection of Froots, vibing on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/EBZZx5Rzx_cClpzyBDqEGgO-5X83-pImVkuJZsWwhx8?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tomato"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "Tomato Stem"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flower Crown"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
