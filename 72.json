@@ -1,0 +1,52 @@
+{
+  "name": "Froots #3746",
+  "symbol": "FRTS",
+  "description": "A collection of Froots, vibing on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/felIUNrMFbgm64ZG5EJlP8qc37aa6otHoUxooZXKuWY?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Canard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tomato Jar"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Turtle Neck Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Soother"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Quest"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
