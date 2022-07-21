@@ -1,0 +1,52 @@
+{
+  "name": "The Resurrected #3442",
+  "symbol": "RESURRECT",
+  "description": "Those who were sacrificed, have proven their loyalty and have been Reborn. The Resurrected are a collection of 4268 Degens.",
+  "seller_fee_basis_points": 750,
+  "image": "https://bafybeihqnp4r3vfoydqxewynouxlvupb2m7m2kdcim3orkbtaw4ugkjz7y.ipfs.nftstorage.link/3442.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Life"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Midas"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Engulfed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Slime Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
