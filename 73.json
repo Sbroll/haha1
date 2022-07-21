@@ -1,0 +1,52 @@
+{
+  "name": "Froots #4027",
+  "symbol": "FRTS",
+  "description": "A collection of Froots, vibing on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ulgC_vaqO9vHb30_9ls-dv9A4OVn7twQ4iIL3eAfkQc?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Pastel Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Coral Orange"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floaties"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sobbing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kawai"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "Coral Stem"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lover Rose"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
