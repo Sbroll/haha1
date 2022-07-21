@@ -1,0 +1,52 @@
+{
+  "name": "Froots #57",
+  "symbol": "FRTS",
+  "description": "A collection of Froots, vibing on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/yqKKumM9b3efY-OiI3BF_KbrLbWGGHLqhlmag3GWw8I?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Explorer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wavy"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "Apple Stem"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fork"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5FPdV38n2P5ytxmoAw2ZNFywVDyUePU1SyUrnncMLgW",
+        "share": 100
+      }
+    ]
+  }
+}
